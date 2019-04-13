@@ -1,1 +1,1 @@
-# zqmOnly
+cd ..
